@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIdeo 68 Sorting a List", "VIdeo 68 Sorting a List.csproj", "{0CB58964-26DE-4677-BCA5-F3A716A7071E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB58964-26DE-4677-BCA5-F3A716A7071E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB58964-26DE-4677-BCA5-F3A716A7071E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB58964-26DE-4677-BCA5-F3A716A7071E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB58964-26DE-4677-BCA5-F3A716A7071E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA01B4C-56A1-4513-B276-1C0164E6826E}
+	EndGlobalSection
+EndGlobal
